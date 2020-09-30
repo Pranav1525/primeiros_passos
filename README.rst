@@ -1,6 +1,6 @@
-#######################################
+########################################
  Primeiros Passos com Plone
-#######################################
+########################################
 
 Este é o buildout utilizado durante o Hangout on Air `"Primeiros 
 Passos com Plone, o CMS Pythonico" <http://bit.ly/155rNjr>`_ realizado em 12 
